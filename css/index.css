@@ -1,0 +1,192 @@
+*{
+
+    margin-left:18px;
+    max-width: 1320px;
+}
+
+.fillimi{
+    display: flex;
+}
+
+
+.logo img{
+    width: 120px;
+    flex-direction:column;
+    margin-left:35px ;
+}
+
+.listat {
+    display:flex;
+    margin-left: 230px;
+    list-style-type: none;
+    margin-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.listat ul,li{
+
+padding-left: 38px;
+justify-content: center ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.listat ul,li,a{
+    color: black;
+    text-decoration: none;
+    justify-content: center ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+
+
+.listat li:hover{
+
+color:blueviolet;
+font-size: large;
+}
+.buta {
+
+    border:1px solid purple;
+    width: 120px;
+    height: 39px;
+    background:linear-gradient(to bottom,purple,violet);
+    border-radius:500px;
+    font-size: 15px;
+    color: white;
+   font-family: sans-serif;
+     
+}
+.colori{
+    font-size:55px;
+    font-family:"Lexend Deca", Sans-serif;
+    background: linear-gradient(181deg,black,#fc00ff);
+    text-transform: uppercase;
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
+
+.teksti-one{
+    font-family: "Lexend Deca", Sans-serif;
+    
+}
+
+.hapesira{
+    display: flex;
+    margin-left: 20px;
+    
+}
+.hapesira .njeshi{
+    padding-right: 50px;   
+    margin: 0px;
+}
+
+.hapesira .dyshi{
+    padding-right: 30px;   
+    margin: 0px;
+}
+
+
+.imazhi img{
+    display: flex;
+    width:640px;
+    height: 700px;
+    margin-left: 220px;
+}
+.hyrja{
+    display: flex;
+    margin-top: 70px;
+}
+.hapesira2{
+    position: absolute;
+    display: flex;
+    top: 820px;
+    left:77px;
+    justify-content: space-between;
+}
+
+
+.about-us{
+    margin-top: 200px;
+    display: flex;
+}
+
+
+.shenimi{
+
+    font-family: "Lexend Deca", Sans-serif;
+    font-size: 20px;
+}
+.buta2{
+    border:1px solid purple;
+    width: 120px;
+    height: 46px;
+    background:linear-gradient(to bottom,purple,violet);
+    border-radius:500px;
+    font-size: 15px;
+    color: white;
+   font-family: sans-serif;
+    margin-top: 30px;
+
+
+}
+.about-us p{
+    color:purple;
+}
+
+.zvoglo img{
+    
+    width: 397px;
+    height: 360px;
+    margin-top:220px;
+}
+
+.under-text {
+    display: flex;
+    justify-content: space-between;
+    padding-right:115px;
+    color: purple;
+    font-family:"Lexend Deca", Sans-serif;
+}
+
+.underunder-text{
+    display: flex;
+    justify-content: space-between;
+    padding-right:25px;
+    font-family:"Lexend Deca", Sans-serif;
+}
+.kontakti{
+margin-top: 150px;
+
+}
+.kontakti h1{ 
+    color: purple;
+    font-family:"Lexend Deca", Sans-serif;
+    font-size: 35px;
+}
+
+.kontakti input{
+width: 450px;
+height: 35px;
+justify-content: center;    
+text-align: center;
+margin-left: 440px;
+}
+.kontakti textarea{
+    width: 450px;
+    margin-left: 440px;
+    text-align: center;
+}
+#enter{
+
+    
+    
+    height: 46px;
+    background-color: purple;
+   
+    font-size: 15px;
+    color: white;
+   font-family: sans-serif;
+    margin-top: 30px;
+
+}
